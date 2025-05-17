@@ -25,11 +25,9 @@ Project Structure
 Getting Started
 
 To run the game locally:
-	1.	Clone the repository:
 
-git clone https://github.com/Eduard-02/FlarpyBlorb.git
-
-
+	1.	Clone the repository: 
+	•	git clone https://github.com/Eduard-02/FlarpyBlorb.git
 	2.	Open in Unity:
 	•	Launch Unity Hub.
 	•	Click on “Add” and select the cloned project folder.
