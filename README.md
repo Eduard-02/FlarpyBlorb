@@ -28,10 +28,12 @@ To run the game locally:
 
 	1.	Clone the repository: 
 	•	git clone https://github.com/Eduard-02/FlarpyBlorb.git
+ 
 	2.	Open in Unity:
 	•	Launch Unity Hub.
 	•	Click on “Add” and select the cloned project folder.
 	•	Open the project.
+ 
 	3.	Play the Game:
 	•	In the Unity Editor, open the MainScene located in the Assets/Scenes directory.
 	•	Click the “Play” button to start the game.
