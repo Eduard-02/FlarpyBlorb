@@ -1,4 +1,4 @@
-FlarpyBlorb
+#FlarpyBlorb
 
 A Unity-based 2D game inspired by Flappy Bird — my first solo game development project.
 
